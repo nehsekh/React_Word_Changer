@@ -5,7 +5,7 @@ import Navbar from './components/Navbar';
 import Textform from './components/Textform';
 import About from './components/About';
 import React, { useState } from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
+//import { BrowserRouter, Routes, Route } from 'react-router-dom';
 //import Alert from './components/Alert';
 
 function App(){
